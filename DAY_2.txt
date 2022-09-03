@@ -1,0 +1,101 @@
+HTML
+=======
+
+1.  Hyper Text Markup Language
+
+2.  tag based language
+
+3. .html    ex::   index.html     login.html      signup.html
+
+  index.html
+ <fileName>.html
+  
+  electronics.html
+
+4.  Structure of the webpage/website
+
+  
+5.  Structure of the webpage          1 2 3 4 5
+
+               
+
+           <!DOCTYPE   html>  <!--  TO INDICATE AS HTML 5   -->
+
+            <html>
+               <head>
+                  <!-- Java Script files , CSS  Files   ,Meta Data   --> 
+                  <title> My first Application</title>
+               <head>
+             
+               <body>
+                  <h1>Heading 1</h1>
+               </body>
+            
+            </html>
+
+
+6.  Latest version is HTML5 
+
+
+       cntr+A =>right click => formatSelection
+
+
+
+How to OPEN   VS CODE
+======================
+
+
+open  HTML 2022 Folder =>>    search bar===>clear serach bar ===>type cmd ==> enter ==> opens terminal==>
+                      type code .===>opens vscode
+
+
+
+ HTML Headings
+====================
+<!--  html:5-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headings</title>
+</head>
+<body>
+     <!-- h1 to h6 -->
+     <h1>Heading1</h1>
+     <h2>Heading2</h2>
+     <h3>Heading3</h3>
+     <h4>Heading4</h4>
+     <h5>Heading5</h5>
+     <h6>Heading6</h6>
+
+     <h1>Heading1</h1>
+     <h1>Heading1</h1>
+     <h1>Heading1</h1>
+     <h1>Heading1</h1>
+     <h1>Heading1</h1>
+</body>
+</html>
+
+
+
+
+HTML Styles
+=========================
+
+ 1.Inline
+ 2.Internal
+ 3.External
+
+
+
+
+
+
+
+
+
+
+

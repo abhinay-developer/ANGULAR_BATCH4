@@ -1,0 +1,135 @@
+  Types Of Jobs
+================= 
+  ECE,CSE,EEE,IT,MECH,CIVIL,MINING 
+
+       Non Technical        1.8 lpa  5% 2 2.5  
+      --------------------
+          1.Call Center Jobs  
+          2.Youtube Processing
+          3.Google Mapping
+          4.Accounting    (MBA)
+          5.HR Department  (MBA   Recruting, Payroll,finace)
+
+       Techinal        3.5 to 7 LPA  
+       -------------------
+        Java
+        Python
+        C# .NET
+        Web Development
+            HTML,CSS,JS
+            HTML,CSS,JS,JQUERY
+            ANGULAR 
+            REACT 
+            VUE JS
+        Progress
+        POWER BI
+        Deveops
+        SYSTEM ADMIN
+        DB ADMIINSTRATION
+        DB DEVELOPER
+        MAIN FRAMES
+        TESTING
+            AUTOMATION
+            MANUAL
+
+
+  ANGULAR DEVELOPER
+============================================================
+
+  1.Types Of Applications
+
+         1.Stand alone Application (Desktop Applications)
+            
+            Single user application is called standalone
+            EX::Notepad,VS CODE ,Google Chrome,Calculator
+
+         2.Web Application
+
+
+           https://google.com/
+           https://flipkart.com/
+
+
+       ANGULAR     2.1/2 Months   3Months
+           HTML
+           CSS
+           JS 
+           Boostrap
+           TS
+           JSON
+           ANGULAR
+           Angular Material/Prime Ng 
+           POSTMAN
+
+      Additional 
+          JIRA
+          AJILE
+          GIT HUB
+          DEPLOYEMNT 
+
+
+ REALTIME INDUSTRY
+ ===================
+ 1yr  2X   2yr  10X   30X 
+
+
+                      SPRINT1  ==> 10   days
+                      SPRINT2  ==> 4 Points
+     JIRA====>
+        
+        EPIC ===>MAIN TASK
+        HEADER MODULE
+
+          1 .STORY==> TASKS           (Story Points)==>Estimates===>8 1week 
+                   SUB TAKS===>
+                     BE:JAVA ,PYTHON,NODE JS
+                     UI:HTML,CSS ,BOOSTRAP,JS,ANGULAR
+                       BA::  
+                            1.Create Header
+                            2.Display images
+                            3.Background White display images
+
+                     DB:ORACLE,MYSQL
+                     DEVOPS: DEPLOYEMNT    ==>JENKINS,KUBERNETES,DOCKER,ANSIBLE
+          2 .STORY==> TASKS
+    
+
+            
+          1.Gitub Account        https://github.com/
+          2.Dummy Mail Id
+          3.outlook mail 
+          4.Google Chrome
+          5.Visual Studio Code   https://code.visualstudio.com/
+          
+
+ 
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
