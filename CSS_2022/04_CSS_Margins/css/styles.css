@@ -1,0 +1,13 @@
+.courses{
+   padding:20px;
+   background-color: antiquewhite;
+   list-style-type: none;
+   margin-top: 20px;
+   color: rgb(59, 3, 110);
+   font-size: 16px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+    margin-left: 40px;
+}

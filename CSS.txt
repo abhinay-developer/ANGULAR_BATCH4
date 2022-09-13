@@ -1,0 +1,19 @@
+CSS
+========
+CaseCading style sheet
+
+
+<body>
+ 
+  <h1></h1>
+
+</body>
+
+  <!--  
+
+   1.Inline
+   2.Internal 
+   3.External
+-->
+
+SCSS
