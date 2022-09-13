@@ -11,3 +11,11 @@
 .title{
     margin-left: 40px;
 }
+
+.myClass{
+    background-color: aqua;
+    font-family: cursive;
+    background-color: aqua;
+    padding: 10px;
+    margin-left: 42px;
+}
