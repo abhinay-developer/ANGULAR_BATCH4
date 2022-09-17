@@ -1,0 +1,31 @@
+table{
+   
+    width: 100%;
+    border-bottom: 6px solid rgb(47, 92, 47);
+   border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(47, 92, 47);
+    padding: 10px;
+}
+
+th{
+    padding: 18px;
+    background-color: rgb(47, 92, 47);
+    color: white;
+}
+
+th:hover{
+    padding: 18px;
+    background-color: red;
+    color: white;
+}
+
+.even{
+    background-color: rgb(223, 208, 208);
+    padding: 18px;
+}
+td{
+    padding: 18px;
+}
