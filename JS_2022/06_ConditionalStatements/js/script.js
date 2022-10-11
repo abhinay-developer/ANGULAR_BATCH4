@@ -1,9 +1,22 @@
 console.log("Conditional Statements");
 
+
+ /***
+  * 
+  *  1.Simple If
+  *  2.if else
+  *  3.if else if else
+  *  4.Ladder if
+  *  5.Nested if
+  * 
+  * 
+  */
+
+
 /**
  * Simple If
  */
-
+ 
 
 
 function isEligibility() {
@@ -30,7 +43,7 @@ if (percent >= 60 && percent < 74) {
 }
 
 
-/* If else if */
+/* If else if  else*/
 
 if (percent > 35 && percent <= 45) {  //true  && true   ===>true
     console.log("You are third class")
