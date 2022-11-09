@@ -1,0 +1,12 @@
+Google Chrome
+Visual Studio Code
+
+Node JS   (node -v  npm -v)
+
+Git Bash
+
+
+
+Angular  npm install -g angular/cli
+
+angular --version   or angular version

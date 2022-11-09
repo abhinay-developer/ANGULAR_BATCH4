@@ -19,8 +19,12 @@ var a = 20;
 
 let URL=fetch("https://jsonplaceholder.typicode.com/users");
  URL.then((data)=>data.json()).then((data)=>{
+   var companyName = "";
   data.forEach(element => {
-     console.log(element.company.name);
-     document.getElementById('result').innerHTML=element.company.name;
+    console.log(element)
+    companyName+=element.company.name+"</br>";
+    //companyName=companyName+element.company.name+"</br>";
+     document.getElementById('result').innerHTML=companyName;
   });
+
 })
